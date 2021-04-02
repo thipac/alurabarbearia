@@ -4,7 +4,7 @@
   "description": "Homepage for Barbearia Alura provider and services",
   "main": "src/index.html",
   "scripts": {
-    "start": "npx live-server src/",
+    "start": "npx live-server barbearia-alura/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
